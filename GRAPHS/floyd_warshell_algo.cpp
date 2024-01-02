@@ -39,6 +39,19 @@ public:
             }
         }
 
+        // check if negative cycle exists or not
+
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                if (matrix[i][j] < 0)
+                {
+                    // negative cycle exists
+                }
+            }
+        }
+
         for (int i = 0; i < n; i++)
         {
             for (int j = 0; j < n; j++)
