@@ -6,3 +6,5 @@
 - [Kanhs' Algorithm or Topological sort using BFS](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/kanhs_algorithm.cpp)
 - [Find Shorest path in DAG](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/shortest_path_DAG.cpp)
 - [Find Shorest path in undirected unit weighted graph](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/shortest_path_undirected_unit_graph.cpp)
+- [find shortest path using DIJKSTRA'S ALGORITHM with min - heap data structure](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/dijkstra's_algo_min_heap.cpp)
+- [ find shortest path using DIJKSTRA'S ALGORITHM with set data structure](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/dijkstra_using_set.cpp)
