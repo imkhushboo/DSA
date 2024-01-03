@@ -10,3 +10,4 @@
 - [ find shortest path using DIJKSTRA'S ALGORITHM with set data structure](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/dijkstra_using_set.cpp)
 - [Bellman's Ford Algorithm for negative path weight & negative cycle](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/bellmanford_algo.cpp)
 - [Floyd Warshells Algorithm to find shortest path from every node to another node](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/floyd_warshell_algo.cpp)
+- [Prims Algorithm to find MST](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/prims_algo.cpp)
