@@ -15,6 +15,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// recursive traversal
+
 class Solution
 {
 private:
@@ -36,6 +39,41 @@ public:
 
         vector<int> ans;
         preorder(root, ans);
+        return ans;
+    }
+};
+
+// iterative traversal
+
+class Solution
+{
+public:
+    vector<int> preorderTraversal(TreeNode *root)
+    {
+        // iterative preorder traversal
+
+        if (root == NULL)
+            return {};
+
+        stack<TreeNode *> st;
+        vector<int> ans;
+        st.push(root);
+
+        while (!st.empty())
+        {
+            TreeNode *node = st.top();
+            ans.push_back(node->val);
+            st.pop();
+            if (node->right)
+            {
+                st.push(node->right);
+            }
+
+            if (node->left)
+            {
+                st.push(node->left);
+            }
+        }
         return ans;
     }
 };
