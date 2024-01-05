@@ -1,6 +1,7 @@
 /*
   Inorder Traversal of Binary Tree
   problem - link : https://leetcode.com/problems/binary-tree-inorder-traversal
+  video - link : https://youtu.be/lxTGsVXjwvM?si=orUHMf2Lh2BvdJw4
 */
 
 /**
@@ -31,6 +32,48 @@ public:
         // left root right
         vector<int> ans;
         helper(root, ans);
+        return ans;
+    }
+};
+
+// iterative traversal
+
+class Solution
+{
+public:
+    vector<int> inorderTraversal(TreeNode *root)
+    {
+        // iterative traversal
+
+        stack<TreeNode *> st;
+        st.push(root);
+        vector<int> ans;
+
+        while (!st.empty())
+        {
+            TreeNode *node = st.top();
+
+            if (node == NULL)
+            {
+                st.pop();
+                if (!st.empty())
+                {
+                    TreeNode *node = st.top();
+                    ans.push_back(node->val);
+                    st.pop();
+                    st.push(node->right);
+                }
+                else
+                {
+                    break;
+                }
+            }
+            else
+            {
+                st.push(node->left);
+            }
+        }
+
         return ans;
     }
 };
