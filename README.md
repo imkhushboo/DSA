@@ -13,3 +13,10 @@
 - [Prims Algorithm to find MST](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/prims_algo.cpp)
 - [Disjoint Sets](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/disjoint_set.cpp)
 - [Krushkal's Algorithm to find MST](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/krushkals_algo.cpp)
+
+# TREES 
+- [Inorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/inorder_traversal.cpp)
+- [Postorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/postorder_traversal.cpp)
+- [Preorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/preorder_traversal.cpp) 
+- [Level Order Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/levelorder_traversal.cpp)
+
