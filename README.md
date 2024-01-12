@@ -15,8 +15,18 @@
 - [Krushkal's Algorithm to find MST](https://github.com/imkhushboo/DSA/blob/master/GRAPHS/krushkals_algo.cpp)
 
 # TREES 
-- [Inorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/inorder_traversal.cpp)
-- [Postorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/postorder_traversal.cpp)
-- [Preorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/preorder_traversal.cpp) 
-- [Level Order Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/levelorder_traversal.cpp)
+- ## TRAVERSAL ALGORITHMS :
+  - [Inorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/inorder_traversal.cpp)
+  - [Postorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/postorder_traversal.cpp)
+  - [Preorder Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/preorder_traversal.cpp) 
+  - [Level Order Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/levelorder_traversal.cpp)
+  - [Zig-Zag Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/zigzag_traversal.cpp)
+  - [Vertical order Traversal of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/vertical_order_traversal.cpp)
+ 
+
+- [Diameter of a Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/diameter_of_tree.cpp)
+- [find maximum depth of a binary tree](https://github.com/imkhushboo/DSA/blob/master/TREES/depth_of_tree.cpp)
+  
+  
+
 
