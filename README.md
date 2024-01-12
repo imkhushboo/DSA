@@ -26,6 +26,7 @@
 
 - [Diameter of a Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/diameter_of_tree.cpp)
 - [find maximum depth of a binary tree](https://github.com/imkhushboo/DSA/blob/master/TREES/depth_of_tree.cpp)
+- [Right/Left view of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/right_left_view_of_tree.cpp)
   
   
 
