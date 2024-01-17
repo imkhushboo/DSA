@@ -26,6 +26,10 @@
 - [find maximum depth of a binary tree](https://github.com/imkhushboo/DSA/blob/master/TREES/depth_of_tree.cpp)
 - [Right/Left view of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/right_left_view_of_tree.cpp)
 - [LCA of Binary Tree](https://github.com/imkhushboo/DSA/blob/master/TREES/lca_binary_tree.cpp)
+
+# LINKEDLIST
+- [Delete a node from single Linkedlist](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/delete_node_from_ll.cpp)
+- [Add two linkedlist](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/add_two_number.)
   
   
 
