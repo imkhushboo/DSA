@@ -29,7 +29,12 @@
 
 # LINKEDLIST
 - [Delete a node from single Linkedlist](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/delete_node_from_ll.cpp)
-- [Add two linkedlist](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/add_two_number.)
+- [ADD TWO Linked List ](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/add_two_number.cpp)
+- [Design Browser History](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/DLL_DESIGN.CPP)
+- [DETECT A LOOP IN LINKEDLIST](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/detect_cycle.cpp)
+- [Remove Nth Node From End of List](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/remove_nth_node.cpp)
+- [Find the node where the cycle begins. If there is no cycle, return null.](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/find_start_node_cycle.cpp)
+- [Middle of the Linked List](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/middle_of_linkedlist.cpp)
   
   
 
