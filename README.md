@@ -35,6 +35,9 @@
 - [Remove Nth Node From End of List](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/remove_nth_node.cpp)
 - [Find the node where the cycle begins. If there is no cycle, return null.](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/find_start_node_cycle.cpp)
 - [Middle of the Linked List](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/middle_of_linkedlist.cpp)
+- [Sort Linkedlist](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/sortLinkedlist.cpp)
+- [Rotate List](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/rotate_linkedlist.cpp)
+- [Reverse Nodes in K Groups](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/reverseListinKGroup.cpp)
   
   
 
