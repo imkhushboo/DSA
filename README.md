@@ -38,6 +38,18 @@
 - [Sort Linkedlist](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/sortLinkedlist.cpp)
 - [Rotate List](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/rotate_linkedlist.cpp)
 - [Reverse Nodes in K Groups](https://github.com/imkhushboo/DSA/blob/master/LINKEDLIST/reverseListinKGroup.cpp)
+
+
+
+# DP
+- LIS
+  - [Recursion](https://github.com/imkhushboo/DSA/blob/da36b149d8c8b820ec965ebc979d0ff3387f7392/DP/LIS.cpp#L11C1-L41C3)
+  - [Memoization](https://github.com/imkhushboo/DSA/blob/da36b149d8c8b820ec965ebc979d0ff3387f7392/DP/LIS.cpp#L43C1-L85C1)
+  - [Tabulation](https://github.com/imkhushboo/DSA/blob/da36b149d8c8b820ec965ebc979d0ff3387f7392/DP/LIS.cpp#L86C1-L147C3)
+  - [Algorithm](https://github.com/imkhushboo/DSA/blob/da36b149d8c8b820ec965ebc979d0ff3387f7392/DP/LIS.cpp#L149C1-L182C3)
+  - [Binary Search](https://github.com/imkhushboo/DSA/blob/da36b149d8c8b820ec965ebc979d0ff3387f7392/DP/LIS.cpp#L184C1-L218C3)
+- [Print LIS](https://github.com/imkhushboo/DSA/blob/master/DP/PrintLis.cpp)
+- [Climb Stairs](https://github.com/imkhushboo/DSA/blob/master/DP/climbstairs.cpp)
   
   
 
